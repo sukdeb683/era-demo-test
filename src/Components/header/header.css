@@ -1,0 +1,17 @@
+
+.logo{width: 175px;}
+.message{display: inline-block; width: 25px;height: 25px;
+    background: url('../../assest/Message Icon.png')no-repeat;background-size: 100%;
+}
+.notification{display: inline-block; width: 21px;height: 26px;
+    background: url('../../assest/Notifications Icon.png')no-repeat;background-size: 100%;}
+.count{
+    background: #e03997;
+    border-radius: 30px;
+    width: 21px;
+    height: 15px;
+    color: #fff;
+    font-size: 8px;
+}
+.profile_img img{width: 50px;}
+.dropdown-menu{transform: translate3d(-116px, 38px, 0px);}
