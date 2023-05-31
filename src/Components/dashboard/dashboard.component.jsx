@@ -16,13 +16,14 @@ export const Dashboard = () => {
             </div>
             <div className='col-12 col-md-6'>
                 <div className='shadow p-3 rounded'>
-                <Middlesection age='25' text='This is Middle section' apple={[{apple:500},{apple:400},{apple:600}]}/>
+                <Rightsection/>
                 </div>
             
             </div>
-            <div className='col-12'>
+            <div className='col-12 col-md-3'>
               <div className='shadow p-3 rounded'>
-              <Rightsection/>
+              
+              <Middlesection age='25' text='This is Middle section' apple={[{apple:500},{apple:400},{apple:600}]}/>
               </div>
                 
             </div>
