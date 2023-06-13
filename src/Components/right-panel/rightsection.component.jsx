@@ -12,9 +12,9 @@ export const Rightsection = () => {
   return (
     <table className='table table-bordered'>
       <tr>
-        <th>Id NO</th>
+        <th>Id</th>
         <th>Name</th>
-        <th>Email</th>
+        <th>Email Address</th>
         <th>Content</th>
       </tr>
       {
